@@ -1,6 +1,6 @@
 ﻿# Welcome to StableDiffusionAuto1111
 
-**StableDiffusionAuto1111** is a plugin to connect the realtime - WSYWIG image editing of GIMP with the AI image generatiopn of Stable Diffusion via the API of AUTOMATIC1111's web api. This plugin is targeted for GIMP 3.0, which is not yet finished. The development and testing platform is GIMP 2.99+
+**StableDiffusionAuto1111** is a plugin to connect the realtime - WSYWIG image editing of GIMP with the AI image generation of Stable Diffusion via the API of AUTOMATIC1111's web api. This plugin is targeted for GIMP 3.0, which is not yet finished, but is scheduled for release in May 2024. The current development and testing platform is GIMP 2.99+
 
 This project was based upon ["stable-gimpfusion"]https://github.com/ArtBIT/stable-gimpfusion which uses the (soon obsolete) GIMP 2.10 api, and python 2.7. Enormous thanks to ArtBit for their work.
 
