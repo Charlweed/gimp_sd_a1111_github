@@ -31,7 +31,7 @@ See the demo video on YouTube
 You need to install stable-diffusion-webui, with [sd-webui-controlnet]https://github.com/Mikubill/sd-webui-controlnet, and have it running, and accepting connections without errors. See [stable-diffusion-webui]https://github.com/AUTOMATIC1111/stable-diffusion-uginwebui for AUTOMATIC1111 details.
 
 # Installation
-Currently, StableDiffusionAuto1111 can be installed into GIMP by creating a subdirectory named exactly "stable-gimpfusion" in one of GIMP's plug-in directories, and copying only the *.py, and *.json files from this repository into that sub-folder. For example, under "~/AppData/Roaming/GIMP/2.99/plug-ins/stable-gimpfusion" or "~/.config/GIMP/2.99/plug-ins/stable-gimpfusion".
+Currently, StableDiffusionAuto1111 can be installed into GIMP by creating a subdirectory named exactly "stable-gimpfusion" in one of GIMP's plug-in directories, and copying only the *.py, and *.json files from this repository into that sub-folder. For example, under "\~/AppData/Roaming/GIMP/2.99/plug-ins/stable-gimpfusion" or "\~/.config/GIMP/2.99/plug-ins/stable-gimpfusion".
 
 It is not a good idea to clone or copy this entire repository into the plug-ins folder, because GIMP will read every file, and try to evaluate each as plug-in content. This raises security and performance issues. There are also issues with which GIMP plug-in directory you select (user v.s. system-wide), depending upon your system platform. These issues are expected to be resolved by the GIMP 3.0 release, but may cause confusion.
 
